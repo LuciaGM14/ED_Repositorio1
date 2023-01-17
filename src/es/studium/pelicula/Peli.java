@@ -1,5 +1,6 @@
 package es.studium.pelicula;
 
+
 public class Peli
 {
 	
@@ -13,7 +14,7 @@ public class Peli
 			duracion="";
 			
 		}
-			
+			//constructor vacio
 			public Peli (String tit, int an, String dur) {
 				titulo= tit;
 				ano= an;
