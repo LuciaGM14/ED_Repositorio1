@@ -3,7 +3,7 @@ package es.studium.pelicula;
 
 public class Peli
 {
-	
+	//atributos privados.
 		private String titulo;
 		private int ano;
 		private String duracion;
@@ -14,7 +14,7 @@ public class Peli
 			duracion="";
 			
 		}
-			//constructor vacio
+			
 			public Peli (String tit, int an, String dur) {
 				titulo= tit;
 				ano= an;
